@@ -1,4 +1,4 @@
-# Finding Personally Identifiable Information Leaked viaPublicly Accessible CT Logs
+# Finding Personally Identifiable Information Leaked via Publicly Accessible CT Logs
 This repository is part of the proof-of-concept research conducted by F.G. van Mourik at the University of Twente on July 2nd, 2021.
 
 ## Research Abstract
